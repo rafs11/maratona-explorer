@@ -1,7 +1,6 @@
 # portfolio-rafael
 
 ![Imagem do portfólio](https://raw.githubusercontent.com/rafs11/portfolio-rafael/main/images/portfolio-rafael.png)
-Imagem do portfólio
 
 - Projeto feito durante o evento da Rocketseat.
 - Um portfólio simples com as redes sociais.
