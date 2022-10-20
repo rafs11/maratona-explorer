@@ -8,14 +8,15 @@
 🔗 [Clique aqui para acessar](https://rafs11.github.io/portfolio-rafael/)
 
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML
 - CSS
 - GitHub
 
 
-## Contato
+## 💙 Contato
 
 📱(61) 9 9145 4660
+</br>
 ✉️ rafaelsg1169@gmail.com
